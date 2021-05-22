@@ -15,10 +15,10 @@ __Pequeno__ que nada
 - zero três 
 - zero quatro
 
-[] 1
-[] 2
-[] 3
-[] 4
+- [x] 1
+- [x] 2
+- [] 3
+- [] 4
 
 [Google](http://google.com)
 [Build](/build/classes)
